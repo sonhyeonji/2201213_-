@@ -1,1 +1,5 @@
 중간고사 연습
+turtle 그래픽
+import turtle
+turtle.shape('turtle')
+turtle.fd(100)
